@@ -1,8 +1,4 @@
 # Bing Direct
-# 用于 Loon 规则集订阅
-# 建议在 Loon 中使用：
-# RULE-SET,https://raw.githubusercontent.com/你的用户名/你的仓库/main/Bing.list,DIRECT
-
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,cn.bing.com
 DOMAIN-SUFFIX,bing.net
